@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Stephanie Copeland",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Ph.D. student in the Young Lab at the University of California, Santa Barbara in the Department of Ecology, Evolution, and Marine Biology. I was born and raised in Wilmington, Delaware, just 45 minutes outside the city of Philadelphia, Pennsylvania (Go Birds!). I received my B.S. in Biomedical Sciences from the University of New Hampshire. In my free time I run with the Santa Barbara Running and Racing club, I am learning guitar, enjoy reading, and painting with watercolors."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Stephanie Copeland",
+    "section": "",
+    "text": "I am a Ph.D. student in the Young Lab at the University of California, Santa Barbara in the Department of Ecology, Evolution, and Marine Biology. I was born and raised in Wilmington, Delaware, just 45 minutes outside the city of Philadelphia, Pennsylvania (Go Birds!). I received my B.S. in Biomedical Sciences from the University of New Hampshire. In my free time I run with the Santa Barbara Running and Racing club, I am learning guitar, enjoy reading, and painting with watercolors."
+  },
+  {
+    "objectID": "index.html#research-interest",
+    "href": "index.html#research-interest",
+    "title": "Stephanie Copeland",
+    "section": "Research Interest:",
+    "text": "Research Interest:\nI am interested in how arthropod vectors, such as ticks and mosquitoes, respond to anthropogenic change. Arthropod vectors are unique in their sensitivity to both the biotic and abiotic systems within an ecosystem. They rely both on ample hosts (biotic) for blood meal consumption and life cycle continuation. Additionally, they can only survive and seek hosts under ambient environmental conditions. Human-driven ecosystem change can come in multiple forms, with many occurring within ecosystems simultaneously. Arthropod vectors and their unique duality can help us 1) better monitor ecosystems, particularly those that are remote and/or vulnerable, and 2) understand how multiple forms of anthropogenic change may interact to affect zoonotic disease prevalence and spread."
   }
 ]

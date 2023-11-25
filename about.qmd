@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Hugo"
+image: hugo.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
 ---
-
-About this site
-
-```{r}
-1 + 1
-```

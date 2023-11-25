@@ -1,11 +1,24 @@
 ---
-title: "website"
+title: "Stephanie Copeland"
+image: headshot.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+  - text: GitHub
+    href: https://github.com/sjcopeland8
+  - text: Email
+    href: mailto:scopeland@ucsb.edu
 ---
 
-This is a Quarto website.
+## About Me:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Ph.D. student in the [Young Lab](https://young-lab.eemb.ucsb.edu/) at the University of California, Santa Barbara in the Department of Ecology, Evolution, and Marine Biology. I was born and raised in Wilmington, Delaware, just 45 minutes outside the city of Philadelphia, Pennsylvania (Go Birds!). I received my B.S. in Biomedical Sciences from the University of New Hampshire. In my free time I run with the Santa Barbara Running and Racing club, I am learning guitar, enjoy reading, and painting with watercolors.
 
-```{r}
-1 + 1
-```
+## Research Interest:
+
+I am interested in how arthropod vectors, such as ticks and mosquitoes, respond to anthropogenic change. Arthropod vectors are unique in their sensitivity to both the biotic and abiotic systems within an ecosystem. They rely both on ample hosts (biotic) for blood meal consumption and life cycle continuation. Additionally, they can only survive and seek hosts under ambient environmental conditions. Human-driven ecosystem change can come in multiple forms, with many occurring within ecosystems simultaneously. Arthropod vectors and their unique duality can help us 1) better monitor ecosystems, particularly those that are remote and/or vulnerable, and 2) understand how multiple forms of anthropogenic change may interact to affect zoonotic disease prevalence and spread.
+
+## 
